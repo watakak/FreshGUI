@@ -1,4 +1,4 @@
-This is Prompt for ChatGPT to implement code writing and knowledge of FreshGUI.
+This Guide is about how to implement Code Writing and Knowledge of FreshGUI to ChatGPT.
   
 You need to do this in few steps.
   1. Create a New Chat with ChatGPT.
@@ -17,4 +17,4 @@ You need to do this in few steps.
   13. Paste "Examples 2" content in chat, wait for the answer.
   14. Paste "Examples 3" content in chat, wait for the answer.
   
-  You're done! Now you can easily interact and write code with FreshGUI using ChatGPT.
+  You're done! Now you can easily Interact and Write Code with FreshGUI using ChatGPT.
