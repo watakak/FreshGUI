@@ -1,5 +1,5 @@
-# FreshGUI
-Lightweight, modern, simple.
+# FreshGUI | Description
+Lightweight, Modern, Simple.
 
 # How to install
 - Download the freshgui.py file and paste it into your Python Project.
