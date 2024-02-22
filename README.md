@@ -1,4 +1,4 @@
-# FreshGUI | Description
+# FreshGUI
 Lightweight, Modern, Simple.
 
 # How to install
