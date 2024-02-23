@@ -6,4 +6,4 @@ Lightweight, Modern, Simple.
 - Or you can use ```pip install freshgui```
 
 # Documentation
-[FreshGUI Wiki](https://github.com/watakak/FreshGUI/wiki)
+Official page of [FreshGUI Wiki](https://github.com/watakak/FreshGUI/wiki)
